@@ -115,14 +115,12 @@ body {
 .img1{
     width: 500px;
     height: 300px;
-    display: flex;
-    justify-content: start;
     margin-left: 50px;
 }
 .img2{
     width: 500px;
     height: 300px;
-    justify-content: end;
+    margin-left: 800px;
 }
 
 
